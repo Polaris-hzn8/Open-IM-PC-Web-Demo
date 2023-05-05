@@ -6,12 +6,12 @@
 1. Get dependencies from npm
 
   ```bash
-  npm install 
+  npm install
   ```
 
 2. Run and preview at local (web)
 
-  ```
+  ```bash
   npm run start:renderer
 
 3. Run and preview at local (electron)
@@ -22,7 +22,7 @@
 
 4. Build (web)
 
-  ```
+  ```bash
   npm run build:renderer
   ```
 
